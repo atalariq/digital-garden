@@ -9,3 +9,5 @@ date: 2025-07-11
 > Buat nge-capture apa aja yang ku lakuin selama jadi mahasiswa
 > 
 > Enjoy!
+
+---

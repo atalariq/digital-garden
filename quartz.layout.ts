@@ -6,23 +6,22 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        repo: 'atalariq/digital-garden',
-        repoId: 'R_kgDOPKtEzA',
-        category: 'Announcements',
-        categoryId: 'DIC_kwDOPKtEzM4Cs6-C',
-        lang: 'en'
-      }
-    }),
+    // Component.Comments({
+    //   provider: 'giscus',
+    //   options: {
+    //     repo: 'atalariq/digital-garden',
+    //     repoId: 'R_kgDOPKtEzA',
+    //     category: 'Announcements',
+    //     categoryId: 'DIC_kwDOPKtEzM4Cs6-C',
+    //     lang: 'en'
+    //   }
+    // }),
   ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/atalariq/digital-garden",
       LinkedIn: "https://linkedin.com/in/atalariq",
       Instagram: "https://instagram.com/atalariq.dev",
-      Threads: "https://threads.com/@atalariq__",
     },
   }),
 }
@@ -62,7 +61,15 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -73,6 +80,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),

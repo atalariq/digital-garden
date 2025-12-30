@@ -1,0 +1,42 @@
+# Penyakit Akibat Kerja di Bidang Teknologi Informasi
+
+Pertanyaan:
+- Kenapa ada tes kesehatan saat melamar pekerjaan?
+  - Meminimalisir risiko
+  - Setiap pekerjaan punya tuntutan kondisi fisik dan mental/psikis yang berbeda-beda. -> Menguji batasan fisik ataupun mental calon pekerja -> Melihat kinerja pada saat kondisi tidak prima
+- Apa itu Kesehatan Kerja?
+  - ...
+- Psikosomatis adalah ...
+  - kondisi di mana masalah emosional atau psikologis seperti stres, kecemasan, atau depresi menyebabkan atau memperparah gejala fisik
+- Apa itu Penyakit Akibat Kerja (PAK)?
+  - Penyakit yang disebabkan oleh pekerjaan dan/atau lingkungan kerja (Perpres No. 7 Tahun 2019)
+  - Dampaknya terjadi dalam jangka waktu yang lama
+- Contoh-contoh PAK:
+  - Leptospirosis: ...
+  - Rabun mata: ...
+  - Gangguan sendi: ...
+    - Chronic neck pain
+  - Sakit kepala: ...
+- Faktor penyebab PAK:
+  - Fisik (Physics/Fisika): panas/termo, tekanan, bising/suara, radiasi, dll.
+  - Kimia: paparan B3 (Bahan berbahaya beracun), bahan kimia, dll.
+  - Biologi: Virus, bakteri, hewan, dll.
+  - Fisiologi (Ergonomi): posisi atau cara kerja
+  - Piskososial: suasana kerja, beban pekerjaan, deadline kerja, stres, dll.
+- Pencegahan PAK:
+  - APD
+- Profesi IT -> Invisible Risk.
+  - Chronic Neck Pain: ...
+  - Carpal Tunnel Syndrom: ...
+  - Low Back Pain -> _encok/boyoken_
+  - Hernia Nukleus Pulposus (HNP) -> Saraf kejepit
+  - PPOK, RSI, penyakit kulit, gangguan otot rangka
+- Tips K3:
+  - Pandangan mata
+  - Letak pergelangan tangan, jemari, dan lengan
+  - Beristirahat
+  - Makan dan minum yang cukup
+  - Stretching
+  - Relaksasi mata
+  - Mengatur posisi tubuh 
+

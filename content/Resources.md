@@ -60,4 +60,4 @@ date: 2025-07-11
 - [kevindeasis/awesome-ui](https://github.com/kevindeasis/awesome-ui)
 - [freemediaheckyeah](https://fmhy.net/)
 
-[[#^top|Back to Top]]
+[[Resources|Back to Top]]

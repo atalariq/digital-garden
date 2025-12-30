@@ -3,18 +3,17 @@ title: Home
 description: Homepage of Atalariq's Dev Journal
 date: 2025-07-11
 ---
+---
 
-Map of Content (MOC):
-- [[Log/index|Log]] | [[2025-07-13|Latest]]
-- [[Notes/index|Notes]]
-- [[Resources]]
 
-## Digital Garden
 
-Sebuah ruang digital untuk terus tumbuh.
+## MOC
 
-## Background
+> Map of Content
 
-Adanya sebuah 
+| Link                   | Keterangan                                         |
+| ---------------------- | -------------------------------------------------- |
+| [[00 - Log/index\|Log]]     | Semacam jurnal harian                              |
+| [[Notes/index\|Notes]] | Catatan dari suatu topik yang lagi aku pelajari    |
+| [[Resources]]          | Kumpulan *link* yang sayang kalau disimpan sendiri |
 
-## Disclaimer
